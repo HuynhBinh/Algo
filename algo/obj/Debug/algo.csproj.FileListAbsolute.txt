@@ -1,0 +1,6 @@
+D:\Github\BOCRWindowApp\algo\algo\bin\Debug\algo.exe.config
+D:\Github\BOCRWindowApp\algo\algo\bin\Debug\algo.exe
+D:\Github\BOCRWindowApp\algo\algo\bin\Debug\algo.pdb
+D:\Github\BOCRWindowApp\algo\algo\obj\Debug\algo.csprojResolveAssemblyReference.cache
+D:\Github\BOCRWindowApp\algo\algo\obj\Debug\algo.exe
+D:\Github\BOCRWindowApp\algo\algo\obj\Debug\algo.pdb
